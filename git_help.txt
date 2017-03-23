@@ -1,0 +1,5 @@
+**1.git status; 
+**2.git pull;
+3.git add filename;
+4. git commit -master;
+5. git push
